@@ -1,8 +1,7 @@
-Client-Side-Portal-Architecture
+Client-Side Portal Architecture
 ===============================
 
-
-Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
+The challenge to create a guide for architects that combine the classic principles of good portal information design with the innovation and possibilities of modern client-side technology. This spec is a living document that will be updated as I continue to develop the tenets and specifics of modern client-side portal architecture.
 
 ----------
 
